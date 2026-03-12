@@ -3,42 +3,55 @@
 ---
 
 # 팀 소개 및 역할
-## Team **JANI** (Joined Again, Never Interrupted)
+## 👥 Team JANI
+Joined Again, Never Interrupted
 
 <table align="center">
-  <tr>
-    <td align="center" width="160px"><img src="https://i.pinimg.com/originals/43/b4/4e/43b44ee6e3fb4bc796710416b9c6f568.jpg" style="width:100%; height:auto; object-fit:cover;"></td>
-    <td align="center" width="160px"><img src="https://i.namu.wiki/i/kowOOw3mBFSiEDkw4tv391yZJyBGz-4Q7gik6UHTGazbKoc_03y0mhSZmcUFU5NLw_Qfp6j6Gr5aiClC80u7IA.webp" style="width:100%; height:auto; object-fit:cover;"></td>
-    <td align="center" width="160px"><img src="https://png.pngtree.com/png-vector/20240309/ourmid/pngtree-minus-princess-party-little-princess-disney-princess-princess-word-clip-art-png-image_11917553.png" style="width:100%; height:auto; object-fit:cover;"></td>
-    <td align="center" width="160px"><img src="https://i.namu.wiki/i/kPzxNcP4pgo-Jpmjx3Vvm6170KwVVt5-dOgc4TKSrC0aqWXIylSKg067jLtutTsaqAx9m5BO9Cy7n2JrpnPTHg.webp" style="width:100%; height:auto; object-fit:cover;"></td>
-    <td align="center" width="160px"><img src="https://e7.pngegg.com/pngimages/158/327/png-clipart-snow-white-queen-seven-dwarfs-dopey-snow-white-snow-white-on-blue-background-the-walt-disney-company-cartoons-thumbnail.png" style="width:100%; height:auto; object-fit:cover;"></td>
-    <td align="center" width="160px"><img src="https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/2fG8/image/v4zT6WFl7KCLDMlxbFJgBEwlfWw.jpg" style="width:100%; height:auto; object-fit:cover;"></td>
-  </tr>
-  <tr>
-    <td align="center"><b>김지윤</b></td>
-    <td align="center"><b>이레</b></td>
-    <td align="center"><b>박민선</b></td>
-    <td align="center"><b>박소윤</b></td>
-    <td align="center"><b>윤지혜</b></td>
-    <td align="center"><b>최수아</b></td>
-  </tr>
-  <tr>
-    <td align="center">[@JiyounKim-EllyKim](https://github.com/JiyounKim-EllyKim)</td>
-    <td align="center">[@leere2424](https://github.com/leere2424)</td>
-    <td align="center">[@ParkMinseon22](https://github.com/ParkMinseon22)</td>
-    <td align="center">[@parksoyun9084-cloud](https://github.com/parksoyun9084-cloud)</td>
-    <td align="center">[@jjhhyy0926](https://github.com/jjhhyy0926)</td>
-    <td align="center">[@sooa02](https://github.com/sooa02)</td>
+<tr>
 
-  </tr>
-  <tr> 
-    <td align="center">역할</td>
-    <td align="center">역할</td>
-    <td align="center">역할</td>
-    <td align="center">역할</td>
-    <td align="center">역할</td>
-    <td align="center">역할</td>
-  </tr>
+<td align="center" width="150px">
+<img src="https://i.pinimg.com/originals/43/b4/4e/43b44ee6e3fb4bc796710416b9c6f568.jpg" width="120"><br>
+<b>김지윤</b><br>
+<a href="https://github.com/JiyounKim-EllyKim">@JiyounKim-EllyKim</a><br>
+역할
+</td>
+
+<td align="center" width="150px">
+<img src="https://i.namu.wiki/i/kowOOw3mBFSiEDkw4tv391yZJyBGz-4Q7gik6UHTGazbKoc_03y0mhSZmcUFU5NLw_Qfp6j6Gr5aiClC80u7IA.webp" width="120"><br>
+<b>이레</b><br>
+<a href="https://github.com/leere2424">@leere2424</a><br>
+역할
+</td>
+
+<td align="center" width="150px">
+<img src="https://png.pngtree.com/png-vector/20240309/ourmid/pngtree-minus-princess-party-little-princess-disney-princess-princess-word-clip-art-png-image_11917553.png" width="120"><br>
+<b>박민선</b><br>
+<a href="https://github.com/ParkMinseon22">@ParkMinseon22</a><br>
+역할
+</td>
+
+<td align="center" width="150px">
+<img src="https://i.namu.wiki/i/kPzxNcP4pgo-Jpmjx3Vvm6170KwVVt5-dOgc4TKSrC0aqWXIylSKg067jLtutTsaqAx9m5BO9Cy7n2JrpnPTHg.webp" width="120"><br>
+<b>박소윤</b><br>
+<a href="https://github.com/parksoyun9084-cloud">@parksoyun9084-cloud</a><br>
+역할
+</td>
+
+<td align="center" width="150px">
+<img src="https://e7.pngegg.com/pngimages/158/327/png-clipart-snow-white-queen-seven-dwarfs-dopey-snow-white-snow-white-on-blue-background-the-walt-disney-company-cartoons-thumbnail.png" width="120"><br>
+<b>윤지혜</b><br>
+<a href="https://github.com/jjhhyy0926">@jjhhyy0926</a><br>
+역할
+</td>
+
+<td align="center" width="150px">
+<img src="https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/2fG8/image/v4zT6WFl7KCLDMlxbFJgBEwlfWw.jpg" width="120"><br>
+<b>최수아</b><br>
+<a href="https://github.com/sooa02">@sooa02</a><br>
+역할
+</td>
+
+</tr>
 </table>
 
 ---
