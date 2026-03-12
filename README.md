@@ -3,7 +3,7 @@
 ---
 # 음악 구독 서비스 고객 이탈 예측 프로젝트
 
-# 👑 Team JANI
+## 👑 Team JANI
 ### Joined Again, Never Interrupted
 
 <table align="center">
