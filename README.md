@@ -17,7 +17,7 @@ Joined Again, Never Interrupted
 </td>
 
 <td align="center" width="150px">
-<img src="https://i.namu.wiki/i/kowOOw3mBFSiEDkw4tv391yZJyBGz-4Q7gik6UHTGazbKoc_03y0mhSZmcUFU5NLw_Qfp6j6Gr5aiClC80u7IA.webp" width="120"><br>
+<img src="https://i.namu.wiki/i/QTEA2y9Z3YSbwNh_RpglbT9Q-yVBCAhEBcnr_GmUhWoR6DbuZNr5CfFEWS5C2qd0pBcZ-KpvCQFehPMUXZdriQ.webp" width="120"><br>
 <b>이레</b><br>
 <a href="https://github.com/leere2424">@leere2424</a><br>
 역할
@@ -38,7 +38,7 @@ Joined Again, Never Interrupted
 </td>
 
 <td align="center" width="150px">
-<img src="https://e7.pngegg.com/pngimages/158/327/png-clipart-snow-white-queen-seven-dwarfs-dopey-snow-white-snow-white-on-blue-background-the-walt-disney-company-cartoons-thumbnail.png" width="120"><br>
+<img src="https://i.namu.wiki/i/ri2QB018wn_8-4K61h24Qa3ZbJaUnIMqT39Q5-g4rOPs-lvFtdRxRmqsiEcqm2x5MG2BSIoNFaEPTEIaPa3idQ.webp" width="120"><br>
 <b>윤지혜</b><br>
 <a href="https://github.com/jjhhyy0926">@jjhhyy0926</a><br>
 역할
