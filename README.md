@@ -5,10 +5,6 @@
 # 👑 Team JANI
 ### Joined Again, Never Interrupted
 
-<p align="center">
-  A princess-inspired team building our project with creativity, consistency, and collaboration.
-</p>
-
 <table align="center">
   <tr>
     <td align="center" width="260px" valign="top">
