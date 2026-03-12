@@ -160,6 +160,99 @@
     - 노트북에서는 전처리 후 `final_df`를 만들고, 이를 `model_df`로 복사하여 EDA를 수행했다.
     - 최종 데이터는 범주형 5개, 수치형 15개(타깃 포함)로 구성된다.
 
+## 데이터 테이블 관계
+
+본 프로젝트의 데이터는 원천 테이블 2개와 파생 테이블 2개로 구성된다.
+
+### ERD 구조
+
+erDiagram
+    music_df {
+        int customer_id PK
+        int age
+        string location FK
+        string subscription_type
+        string payment_plan
+        int num_subscription_pauses
+        string payment_method
+        string customer_service_inquiries
+        int signup_date
+        numeric weekly_hours
+        numeric average_session_length
+        numeric song_skip_rate
+        int weekly_songs_played
+        int weekly_unique_songs
+        int num_favorite_artists
+        int num_platform_friends
+        int num_playlists_created
+        int num_shared_playlists
+        int notifications_clicked
+        int churned
+    }
+    census_df {
+        int CensusTract PK
+        string State FK
+        int TotalPop
+        numeric Income
+    }
+    state_stats {
+        string State PK
+        int State_TotalPop
+        numeric State_AvgIncome
+    }
+    model_df {
+        int age
+        string location FK
+        string subscription_type
+        string payment_plan
+        int num_subscription_pauses
+        string payment_method
+        string customer_service_inquiries
+        numeric weekly_hours
+        numeric average_session_length
+        numeric song_skip_rate
+        int weekly_songs_played
+        int weekly_unique_songs
+        int num_favorite_artists
+        int num_platform_friends
+        int num_playlists_created
+        int num_shared_playlists
+        int notifications_clicked
+        int churned
+        numeric State_AvgIncome
+        int tenure_days
+    }
+    census_df }o--|| state_stats : "aggregated by State"
+    music_df }o--|| state_stats : "location = State"
+    state_stats ||--o{ model_df : "adds State_AvgIncome"
+    music_df ||--o{ model_df : "base user features"
+
+### 1. `music_df`
+음악 구독 사용자 단위 원천 데이터이다.  
+고객의 연령, 지역, 구독 유형, 결제 방식, 청취 행동, 플레이리스트 활동, 이탈 여부 등의 정보를 포함한다.
+
+### 2. `census_df`
+미국 Census tract 단위 인구/소득 데이터이다.  
+`State`를 기준으로 여러 행이 존재하며, 주별 인구 및 소득 통계의 원천으로 사용된다.
+
+### 3. `state_stats`
+`census_df`를 `State` 기준으로 집계한 파생 테이블이다.
+
+- `State_TotalPop`: 주별 총인구
+- `State_AvgIncome`: 주별 평균소득
+
+즉, `census_df`의 다수 행이 `state_stats`의 1개 행으로 요약된다.
+
+### 4. `model_df`
+최종 모델링용 데이터셋이다.  
+`music_df`를 기준으로 `location = State` 조건으로 `state_stats`를 left join하여 생성하였다.
+
+추가 파생 변수:
+- `State_AvgIncome`: 지역(주) 평균소득
+- `tenure_days`: `signup_date`로부터 생성한 가입 경과일
+
+최종적으로 `model_df`는 고객 행동 데이터와 지역 소득 데이터를 결합한 **고객 이탈 예측용 피처 테이블**이다.
+
 ---
 
 ## 2. 데이터 기본 정보
