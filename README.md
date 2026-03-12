@@ -2,9 +2,8 @@
 
 ---
 
-# 팀 소개 및 역할
-## 👥 Team JANI
-Joined Again, Never Interrupted
+# 👥 Team JANI
+### Joined Again, Never Interrupted
 
 <table align="center">
 <tr>
