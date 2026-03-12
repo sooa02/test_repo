@@ -1,6 +1,7 @@
 # SKN26-2nd-4Team
 
 ---
+# 음악 구독 서비스 고객 이탈 예측 프로젝트
 
 # 👑 Team JANI
 ### Joined Again, Never Interrupted
@@ -144,6 +145,15 @@
 
 ---
 
+## 🛠 실행 환경 (Environment)
+
+- Python 3.10+ ⇒ 
+  - Streamlit 1.30+
+  - 주요 라이브러리: pandas, numpy, scikit-learn, lightgbm, catboost, shap, matplotlib, seaborn
+  - 딥러닝 프레임워크: pytorch (또는 tensorflow)
+
+---
+
 # 인공지능 데이터 전처리 결과서
 
 ## 1. 프로젝트 개요
@@ -228,7 +238,7 @@ erDiagram
 - `State_AvgIncome`: 지역(주) 평균소득
 - `tenure_days`: `signup_date`로부터 생성한 가입 경과일
 
-최종적으로 `model_df`는 고객 행동 데이터와 지역 소득 데이터를 결합한 **고객 이탈 예측용 피처 테이블**이다.
+최종적으로 `model_df`는 고객 행동 데이터와 지역 소득 데이터를 결합한 고객 이탈 예측용 피처 테이블이다.
 
 ---
 
