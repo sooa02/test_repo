@@ -1,4 +1,4 @@
-[# SKN26-2nd-4Team
+# SKN26-2nd-4Team
 
 ---
 
