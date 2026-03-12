@@ -166,6 +166,7 @@
 
 ### ERD 구조
 
+```mermaid
 erDiagram
     music_df {
         int customer_id PK
@@ -189,17 +190,20 @@ erDiagram
         int notifications_clicked
         int churned
     }
+
     census_df {
         int CensusTract PK
         string State FK
         int TotalPop
         numeric Income
     }
+
     state_stats {
         string State PK
         int State_TotalPop
         numeric State_AvgIncome
     }
+
     model_df {
         int age
         string location FK
@@ -222,10 +226,12 @@ erDiagram
         numeric State_AvgIncome
         int tenure_days
     }
-    census_df }o--|| state_stats : "aggregated by State"
-    music_df }o--|| state_stats : "location = State"
-    state_stats ||--o{ model_df : "adds State_AvgIncome"
-    music_df ||--o{ model_df : "base user features"
+
+    census_df }o--|| state_stats : "group by State"
+    music_df }o--|| state_stats : "join on location = State"
+    music_df ||--o{ model_df : "base table"
+    state_stats ||--o{ model_df : "adds regional income"
+```
 
 ### 1. `music_df`
 음악 구독 사용자 단위 원천 데이터이다.  
