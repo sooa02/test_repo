@@ -18,6 +18,7 @@
         <tr><td align="center">✨ 역할</td></tr>
       </table>
     </td>
+
     <td align="center" width="170px" valign="top">
       <div style="height:230px; display:flex; align-items:center; justify-content:center;">
         <img src="https://i.namu.wiki/i/QTEA2y9Z3YSbwNh_RpglbT9Q-yVBCAhEBcnr_GmUhWoR6DbuZNr5CfFEWS5C2qd0pBcZ-KpvCQFehPMUXZdriQ.webp"
@@ -29,6 +30,7 @@
         <tr><td align="center">✨ 역할</td></tr>
       </table>
     </td>
+
     <td align="center" width="170px" valign="top">
       <div style="height:230px; display:flex; align-items:center; justify-content:center;">
         <img src="https://png.pngtree.com/png-vector/20240309/ourmid/pngtree-minus-princess-party-little-princess-disney-princess-princess-word-clip-art-png-image_11917553.png"
@@ -40,6 +42,7 @@
         <tr><td align="center">✨ 역할</td></tr>
       </table>
     </td>
+
     <td align="center" width="170px" valign="top">
       <div style="height:230px; display:flex; align-items:center; justify-content:center;">
         <img src="https://i.namu.wiki/i/kPzxNcP4pgo-Jpmjx3Vvm6170KwVVt5-dOgc4TKSrC0aqWXIylSKg067jLtutTsaqAx9m5BO9Cy7n2JrpnPTHg.webp"
@@ -51,6 +54,7 @@
         <tr><td align="center">✨ 역할</td></tr>
       </table>
     </td>
+
     <td align="center" width="170px" valign="top">
       <div style="height:230px; display:flex; align-items:center; justify-content:center;">
         <img src="https://i.namu.wiki/i/ri2QB018wn_8-4K61h24Qa3ZbJaUnIMqT39Q5-g4rOPs-lvFtdRxRmqsiEcqm2x5MG2BSIoNFaEPTEIaPa3idQ.webp"
@@ -62,6 +66,7 @@
         <tr><td align="center">✨ 역할</td></tr>
       </table>
     </td>
+
     <td align="center" width="170px" valign="top">
       <div style="height:230px; display:flex; align-items:center; justify-content:center;">
         <img src="https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/2fG8/image/v4zT6WFl7KCLDMlxbFJgBEwlfWw.jpg"
