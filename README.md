@@ -1,4 +1,4 @@
-# SKN26-2nd-4Team
+[# SKN26-2nd-4Team
 
 ---
 
@@ -47,7 +47,7 @@ style="max-width:100px; max-height:140px;">
           </td>
         </tr>
         <tr>
-          <td align="center">❄️ 역할</td>
+          <td align="center">✨ 역할</td>
         </tr>
       </table>
     </td>
@@ -69,7 +69,7 @@ style="max-width:100px; max-height:140px;">
           </td>
         </tr>
         <tr>
-          <td align="center">🌸 역할</td>
+          <td align="center">✨ 역할</td>
         </tr>
       </table>
     </td>
@@ -91,7 +91,7 @@ style="max-width:100px; max-height:140px;">
           </td>
         </tr>
         <tr>
-          <td align="center">🪄 역할</td>
+          <td align="center">✨ 역할</td>
         </tr>
       </table>
     </td>
@@ -113,7 +113,7 @@ style="max-width:100px; max-height:140px;">
           </td>
         </tr>
         <tr>
-          <td align="center">🍎 역할</td>
+          <td align="center">✨ 역할</td>
         </tr>
       </table>
     </td>
@@ -123,7 +123,7 @@ style="max-width:100px; max-height:140px;">
           <td align="center" height="220">
             <img src="https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/2fG8/image/v4zT6WFl7KCLDMlxbFJgBEwlfWw.jpg"
                  height="200"
-style="max-width:100px; max-height:140px;"">
+style="max-width:100px; max-height:140px;">
           </td>
         </tr>
         <tr>
@@ -135,7 +135,7 @@ style="max-width:100px; max-height:140px;"">
           </td>
         </tr>
         <tr>
-          <td align="center">🌹 역할</td>
+          <td align="center">✨ 역할</td>
         </tr>
       </table>
     </td>
@@ -456,4 +456,4 @@ IQR 기준으로 확인한 결과, 모든 대상 변수에서 이상치 수는 0
     - `song_skip_rate`
     - `subscription_type`
     - `customer_service_inquiries`
-- 선형 모델/신경망 계열에는 범주형 인코딩 + 수치형 스케일링을 추가 적용하는 것이 바람직하다.
+- 선형 모델/신경망 계열에는 범주형 인코딩 + 수치형 스케일링을 추가 적용하는 것이 바람직하다.]()
