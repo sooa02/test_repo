@@ -7,12 +7,12 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="160px"><img src="https://i.pinimg.com/originals/43/b4/4e/43b44ee6e3fb4bc796710416b9c6f568.jpg" width="100" style="object-fit: contain; aspect-ratio: 1/1;"></td>
-    <td align="center" width="160px"><img src="https://i.namu.wiki/i/kowOOw3mBFSiEDkw4tv391yZJyBGz-4Q7gik6UHTGazbKoc_03y0mhSZmcUFU5NLw_Qfp6j6Gr5aiClC80u7IA.webp" width="100" style="object-fit: contain; aspect-ratio: 1/1;"></td>
-    <td align="center" width="160px"><img src="https://png.pngtree.com/png-vector/20240309/ourmid/pngtree-minus-princess-party-little-princess-disney-princess-princess-word-clip-art-png-image_11917553.png" width="100" style="object-fit: contain; aspect-ratio: 1/1;"></td>
-    <td align="center" width="160px"><img src="https://i.namu.wiki/i/kPzxNcP4pgo-Jpmjx3Vvm6170KwVVt5-dOgc4TKSrC0aqWXIylSKg067jLtutTsaqAx9m5BO9Cy7n2JrpnPTHg.webp" width="100" style="object-fit: contain; aspect-ratio: 1/1;"></td>
-    <td align="center" width="160px"><img src=".https://e7.pngegg.com/pngimages/158/327/png-clipart-snow-white-queen-seven-dwarfs-dopey-snow-white-snow-white-on-blue-background-the-walt-disney-company-cartoons-thumbnail.png" width="100" style="object-fit: contain; aspect-ratio: 1/1;"></td>
-    <td align="center" width="160px"><img src="https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/2fG8/image/v4zT6WFl7KCLDMlxbFJgBEwlfWw.jpg" width="100" style="object-fit: contain; aspect-ratio: 1/1;"></td>
+    <td align="center" width="160px"><img src="https://i.pinimg.com/originals/43/b4/4e/43b44ee6e3fb4bc796710416b9c6f568.jpg" style="width:100%; height:auto; object-fit:cover;">></td>
+    <td align="center" width="160px"><img src="https://i.namu.wiki/i/kowOOw3mBFSiEDkw4tv391yZJyBGz-4Q7gik6UHTGazbKoc_03y0mhSZmcUFU5NLw_Qfp6j6Gr5aiClC80u7IA.webp" style="width:100%; height:auto; object-fit:cover;"></td>
+    <td align="center" width="160px"><img src="https://png.pngtree.com/png-vector/20240309/ourmid/pngtree-minus-princess-party-little-princess-disney-princess-princess-word-clip-art-png-image_11917553.png" style="width:100%; height:auto; object-fit:cover;"></td>
+    <td align="center" width="160px"><img src="https://i.namu.wiki/i/kPzxNcP4pgo-Jpmjx3Vvm6170KwVVt5-dOgc4TKSrC0aqWXIylSKg067jLtutTsaqAx9m5BO9Cy7n2JrpnPTHg.webp" style="width:100%; height:auto; object-fit:cover;"></td>
+    <td align="center" width="160px"><img src=".https://e7.pngegg.com/pngimages/158/327/png-clipart-snow-white-queen-seven-dwarfs-dopey-snow-white-snow-white-on-blue-background-the-walt-disney-company-cartoons-thumbnail.png" style="width:100%; height:auto; object-fit:cover;"></td>
+    <td align="center" width="160px"><img src="https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/2fG8/image/v4zT6WFl7KCLDMlxbFJgBEwlfWw.jpg" style="width:100%; height:auto; object-fit:cover;"></td>
   </tr>
   <tr>
     <td align="center"><b>김지윤</b></td>
@@ -44,8 +44,6 @@
 ---
 
 # 인공지능 데이터 전처리 결과서
-
----
 
 ## 1. 프로젝트 개요
 
