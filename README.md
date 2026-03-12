@@ -170,24 +170,9 @@
 erDiagram
     music_df {
         int customer_id PK
-        int age
         string location FK
         string subscription_type
         string payment_plan
-        int num_subscription_pauses
-        string payment_method
-        string customer_service_inquiries
-        int signup_date
-        numeric weekly_hours
-        numeric average_session_length
-        numeric song_skip_rate
-        int weekly_songs_played
-        int weekly_unique_songs
-        int num_favorite_artists
-        int num_platform_friends
-        int num_playlists_created
-        int num_shared_playlists
-        int notifications_clicked
         int churned
     }
 
@@ -205,32 +190,18 @@ erDiagram
     }
 
     model_df {
-        int age
         string location FK
         string subscription_type
         string payment_plan
-        int num_subscription_pauses
-        string payment_method
-        string customer_service_inquiries
-        numeric weekly_hours
-        numeric average_session_length
-        numeric song_skip_rate
-        int weekly_songs_played
-        int weekly_unique_songs
-        int num_favorite_artists
-        int num_platform_friends
-        int num_playlists_created
-        int num_shared_playlists
-        int notifications_clicked
         int churned
         numeric State_AvgIncome
         int tenure_days
     }
 
-    census_df }o--|| state_stats : "group by State"
-    music_df }o--|| state_stats : "join on location = State"
-    music_df ||--o{ model_df : "base table"
-    state_stats ||--o{ model_df : "adds regional income"
+    census_df }o--|| state_stats : "aggregated by State"
+    music_df }o--|| state_stats : "location = State"
+    music_df ||--o{ model_df : "base features"
+    state_stats ||--o{ model_df : "regional features"
 ```
 
 ### 1. `music_df`
