@@ -31,25 +31,6 @@
       <table align="center" width="105">
         <tr>
           <td align="center" height="120">
-            <img src="https://i.namu.wiki/i/QTEA2y9Z3YSbwNh_RpglbT9Q-yVBCAhEBcnr_GmUhWoR6DbuZNr5CfFEWS5C2qd0pBcZ-KpvCQFehPMUXZdriQ.webp"
-                 width="70" height="95"
-                 style="object-fit:contain;">
-          </td>
-        </tr>
-        <tr>
-          <td align="center" height="36"><b>이레</b></td>
-        </tr>
-        <tr>
-          <td align="center" height="44">
-            <a href="https://github.com/leere2424">@leere2424</a>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td align="center" width="125" valign="top">
-      <table align="center" width="105">
-        <tr>
-          <td align="center" height="120">
             <img src="https://png.pngtree.com/png-vector/20240309/ourmid/pngtree-minus-princess-party-little-princess-disney-princess-princess-word-clip-art-png-image_11917553.png"
                  width="70" height="95"
                  style="object-fit:contain;">
@@ -80,6 +61,25 @@
         <tr>
           <td align="center" height="44">
             <a href="https://github.com/parksoyun9084-cloud">@parksoyun</a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td align="center" width="125" valign="top">
+      <table align="center" width="105">
+        <tr>
+          <td align="center" height="120">
+            <img src="https://i.namu.wiki/i/QTEA2y9Z3YSbwNh_RpglbT9Q-yVBCAhEBcnr_GmUhWoR6DbuZNr5CfFEWS5C2qd0pBcZ-KpvCQFehPMUXZdriQ.webp"
+                 width="70" height="95"
+                 style="object-fit:contain;">
+          </td>
+        </tr>
+        <tr>
+          <td align="center" height="36"><b>이레</b></td>
+        </tr>
+        <tr>
+          <td align="center" height="44">
+            <a href="https://github.com/leere2424">@leere2424</a>
           </td>
         </tr>
       </table>
@@ -134,35 +134,35 @@
   <tr>
     <td style="border:1px solid #d0d7de; padding:12px;"><b>김지윤</b></td>
     <td style="border:1px solid #d0d7de; padding:12px; text-align:left;">
-      서비스 설계, 데이터 수집·분석, 룰 기반 모델 설계, Streamlit 구현, 레포·브랜치 관리, 문서화
-    </td>
-  </tr>
-
-  <tr>
-    <td style="border:1px solid #d0d7de; padding:12px;"><b>이레</b></td>
-    <td style="border:1px solid #d0d7de; padding:12px; text-align:left;">
-      내용 정리 및 발표 PPT 제작
+      Engagement 기반 RFM 테이블 설계 및 구축, 데이터 전처리 함수 모듈화, 분류 모델 비교 모듈 설계, K-means 클러스터링 수행, 군집별 사용자 행동 특성 분석 및 인사이트 도출
     </td>
   </tr>
 
   <tr>
     <td style="border:1px solid #d0d7de; padding:12px;"><b>박민선</b></td>
     <td style="border:1px solid #d0d7de; padding:12px; text-align:left;">
-      Streamlit layout 설계 및 구현
+      예측 모델 설계, 상관관계 기반 가설 분석, Streamlit 대시보드 시각화 구현
     </td>
   </tr>
 
   <tr>
     <td style="border:1px solid #d0d7de; padding:12px;"><b>박소윤</b></td>
     <td style="border:1px solid #d0d7de; padding:12px; text-align:left;">
-      웹 크롤링·스크래핑 기반 데이터 수집 파이프라인 구축, DB 구조 설계, Docker 기반 개발 환경 구성
+      데이터 전처리 및 EDA, 주 단위 시계열 기반 고객 이탈률 지표 설계, 지리적 정 기반 데이터 시각화 및 지역별 이탈 현황 분석, 머신러닝 하이퍼파라미터 튜닝을 통한 이탈 예측 모델 최적화 및 고도화, 분석 프로세스 논리 구조화 및 인사이트 도출 기반 발표 PPT 제작
     </td>
   </tr>
 
   <tr>
     <td style="border:1px solid #d0d7de; padding:12px;"><b>윤지혜</b></td>
     <td style="border:1px solid #d0d7de; padding:12px; text-align:left;">
-      개념모델링, 논리설계, 데이터 적재, API 조사
+      EDA 기반 가설 검증 시각화 분석, 분류 모델 성능 비교를 통한 최적 모델 선정, 하이퍼파라미터 튜닝을 통한 모델 성능 최적화
+    </td>
+  </tr>
+
+  <tr>
+    <td style="border:1px solid #d0d7de; padding:12px;"><b>이레</b></td>
+    <td style="border:1px solid #d0d7de; padding:12px; text-align:left;">
+      주제 기획 및 제안, 가설 설정, 데이터 EDA 수행 및 분석 방향 도출, 이탈 예측 모델 설계 및 학습 결과 취합, RFM 테이블 설계 및 데이터 전처리, 클러스터링 함수 모듈화 및 코드 구조 정리, AI 모델 학습 결과서 작성
     </td>
   </tr>
 
