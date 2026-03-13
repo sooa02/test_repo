@@ -169,7 +169,7 @@
   <tr>
     <td style="border:1px solid #d0d7de; padding:12px;"><b>최수아</b></td>
     <td style="border:1px solid #d0d7de; padding:12px; text-align:left;">
-      역할
+      데이터 전처리 총괄 및 AI 데이터 전처리 결과서 작성, EDA 진행, 가설 설정 및 검증, ERD 설계, Notion·회의록·README 작성
     </td>
   </tr>
 
