@@ -65,24 +65,6 @@
         </tr>
       </table>
     </td>
-    <td align="center" width="125" valign="top">
-      <table align="center" width="105">
-        <tr>
-          <td align="center" height="120">
-            <img src="https://i.namu.wiki/i/QTEA2y9Z3YSbwNh_RpglbT9Q-yVBCAhEBcnr_GmUhWoR6DbuZNr5CfFEWS5C2qd0pBcZ-KpvCQFehPMUXZdriQ.webp"
-                 width="70" height="95"
-                 style="object-fit:contain;">
-          </td>
-        </tr>
-        <tr>
-          <td align="center" height="36"><b>이레</b></td>
-        </tr>
-        <tr>
-          <td align="center" height="44">
-            <a href="https://github.com/leere2424">@leere2424</a>
-          </td>
-        </tr>
-      </table>
     </td>
     <td align="center" width="125" valign="top">
       <table align="center" width="105">
@@ -103,6 +85,24 @@
         </tr>
       </table>
     </td>
+    <td align="center" width="125" valign="top">
+      <table align="center" width="105">
+        <tr>
+          <td align="center" height="120">
+            <img src="https://i.namu.wiki/i/QTEA2y9Z3YSbwNh_RpglbT9Q-yVBCAhEBcnr_GmUhWoR6DbuZNr5CfFEWS5C2qd0pBcZ-KpvCQFehPMUXZdriQ.webp"
+                 width="70" height="95"
+                 style="object-fit:contain;">
+          </td>
+        </tr>
+        <tr>
+          <td align="center" height="36"><b>이레</b></td>
+        </tr>
+        <tr>
+          <td align="center" height="44">
+            <a href="https://github.com/leere2424">@leere2424</a>
+          </td>
+        </tr>
+      </table>
     <td align="center" width="125" valign="top">
       <table align="center" width="105">
         <tr>
