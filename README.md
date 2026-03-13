@@ -145,44 +145,54 @@
 
 ---
 
----
-
 <h2 align="center">📌 역할 분담</h2>
 
 <table align="center" width="100%" style="border-collapse: collapse; text-align: center;">
   <tr>
-    <th style="border: 1px solid #d0d7de; padding: 12px; background-color: #f6f8fa; font-size: 20px;">
-      역할
-    </th>
+    <th style="border:1px solid #d0d7de; padding:12px; background-color:#f6f8fa;">이름</th>
+    <th style="border:1px solid #d0d7de; padding:12px; background-color:#f6f8fa;">역할</th>
   </tr>
+
   <tr>
-    <td style="border: 1px solid #d0d7de; padding: 14px; text-align: left;">
-      서비스 설계, 데이터 수집·분석, 룰 기반 모델 설계, streamlit 구현, 레포·브랜치 관리, 문서화
+    <td style="border:1px solid #d0d7de; padding:12px;"><b>김지윤</b></td>
+    <td style="border:1px solid #d0d7de; padding:12px; text-align:left;">
+      서비스 설계, 데이터 수집·분석, 룰 기반 모델 설계, Streamlit 구현, 레포·브랜치 관리, 문서화
     </td>
   </tr>
+
   <tr>
-    <td style="border: 1px solid #d0d7de; padding: 14px; text-align: left;">
+    <td style="border:1px solid #d0d7de; padding:12px;"><b>이레</b></td>
+    <td style="border:1px solid #d0d7de; padding:12px; text-align:left;">
       내용 정리 및 발표 PPT 제작
     </td>
   </tr>
+
   <tr>
-    <td style="border: 1px solid #d0d7de; padding: 14px; text-align: left;">
+    <td style="border:1px solid #d0d7de; padding:12px;"><b>박민선</b></td>
+    <td style="border:1px solid #d0d7de; padding:12px; text-align:left;">
       Streamlit layout 설계 및 구현
     </td>
   </tr>
+
   <tr>
-    <td style="border: 1px solid #d0d7de; padding: 14px; text-align: left;">
+    <td style="border:1px solid #d0d7de; padding:12px;"><b>박소윤</b></td>
+    <td style="border:1px solid #d0d7de; padding:12px; text-align:left;">
       웹 크롤링·스크래핑 기반 데이터 수집 파이프라인 구축, DB 구조 설계, Docker 기반 개발 환경 구성
     </td>
   </tr>
+
   <tr>
-    <td style="border: 1px solid #d0d7de; padding: 14px; text-align: left;">
-      개념모델링, 논리설계, 데이터적재, API 조사
+    <td style="border:1px solid #d0d7de; padding:12px;"><b>윤지혜</b></td>
+    <td style="border:1px solid #d0d7de; padding:12px; text-align:left;">
+      개념모델링, 논리설계, 데이터 적재, API 조사
     </td>
   </tr>
+
   <tr>
-    <td style="border: 1px solid #d0d7de; padding: 14px; text-align: left;">
-      웹크롤링 설계/구현, 데이터 수집/전처리/정제
+    <td style="border:1px solid #d0d7de; padding:12px;"><b>최수아</b></td>
+    <td style="border:1px solid #d0d7de; padding:12px; text-align:left;">
+      웹 크롤링 설계 및 구현, 데이터 수집·전처리·정제
     </td>
   </tr>
+
 </table>
