@@ -277,44 +277,43 @@ erDiagram
 
 ## 1.2. 프로젝트 구조 및 모듈 설계
 
+```text
 JANI/
-├── 01_data/                              # 데이터 폴더
-│   ├── raw/                              # 원본 데이터
-│   │   ├── acs2015_census_tract_data.csv # 지역 인구/사회경제 데이터
-│   │   └── train.csv                     # 고객 행동 데이터
-│   └── processed/                        # 전처리 완료 데이터
-│       └── model_df.csv                  # 모델 학습용 최종 데이터셋
+├── 01_data/                      # 데이터 폴더
+│   ├── raw/                      # 원본 데이터
+│   │   ├── acs2015_census_tract_data.csv   # 지역 인구/사회경제 데이터
+│   │   └── train.csv             # 고객 행동 데이터
+│   └── processed/                # 전처리 완료 데이터
+│       └── model_df.csv          # 모델 학습용 최종 데이터셋
 │
-├── 02_notebooks/                         # 분석 및 실험 노트북
+├── 02_notebooks/                 # 분석 및 실험 노트북
 │   ├── 01_EDA_and_Preprocessing/
 │   │   └── preprocessing_eda_mapping.ipynb # 데이터 탐색 및 전처리
-│   └── 02_Modeling/
-│       ├── 01_model_experiments.ipynb      # 다양한 모델 실험
-│       ├── 02_model_comparison.ipynb       # 모델 성능 비교
-│       └── 03_rfm_clustering.ipynb         # RFM 기반 고객 군집 분석
+│   ├── 02_Modeling/
+│   │   ├── 01_model_experiments.ipynb      # 다양한 모델 실험
+│   │   └── 02_model_comparison.ipynb       # 모델 성능 비교
+│   └── 03_rfm_clustering.ipynb             # RFM 기반 고객 군집 분석
 │
-├── 03_models/                            # 학습된 모델 저장
-│   ├── models/
-│   │   ├── final_xgb_model.pkl            # 최종 XGBoost 모델
-│   │   ├── xgb_encoders.pkl               # 범주형 인코딩 객체
-│   │   └── xgb_scaler.pkl                 # 스케일링 객체
-│   └── 01_train_final_model.ipynb         # 최종 모델 학습 노트북
+├── 03_models/                    # 학습된 모델 저장
+│   ├── final_xgb_model.pkl       # 최종 XGBoost 모델
+│   ├── xgb_encoders.pkl          # 범주형 인코딩 객체
+│   └── xgb_scaler.pkl            # 스케일링 객체
 │
 ├── 04_app/
-│   └── app.py                            # Streamlit 대시보드 실행 파일
+│   └── app.py                    # Streamlit 대시보드 실행 파일
 │
-├── catboost_info/                        # CatBoost 학습 로그
-│
-├── src/                                  # 재사용 가능한 코드 모듈
+├── catboost_info/                # CatBoost 학습 로그
+├── src/                          # 재사용 가능한 코드 모듈
 │   ├── __init__.py
-│   ├── models.py                         # 모델 학습 및 평가 함수
-│   ├── preprocessing.py                  # 데이터 전처리 함수
-│   └── utils.py                          # 공통 유틸 함수
+│   ├── models.py                 # 모델 학습 및 평가 함수
+│   ├── preprocessing.py          # 데이터 전처리 함수
+│   └── utils.py                  # 공통 유틸 함수
 │
-├── .gitignore                            # Git 제외 파일 설정
-├── LICENSE                               # 프로젝트 라이선스
-├── models_roc.png                        # 모델 ROC Curve 결과 이미지
-└── README.md                             # 프로젝트 설명 문서
+├── .gitignore                    # Git 제외 파일 설정
+├── LICENSE                       # 프로젝트 라이선스
+├── models_roc.png                # 모델 ROC Curve 결과 이미지
+└── README.md                     # 프로젝트 설명 문서
+```
 
 ---
 
