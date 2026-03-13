@@ -60,7 +60,7 @@
         </tr>
         <tr>
           <td align="center" height="44">
-            <a href="https://github.com/parksoyun9084-cloud">@parksoyun9084-cloud</a>
+            <a href="https://github.com/parksoyun9084-cloud">@parksoyun</a>
           </td>
         </tr>
       </table>
