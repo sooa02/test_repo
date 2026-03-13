@@ -25,9 +25,6 @@
             <a href="https://github.com/JiyounKim-EllyKim">@JiyounKim</a>
           </td>
         </tr>
-        <tr>
-          <td align="center" height="36">✨ 역할</td>
-        </tr>
       </table>
     </td>
     <td align="center" width="125" valign="top">
@@ -46,9 +43,6 @@
           <td align="center" height="44">
             <a href="https://github.com/leere2424">@leere2424</a>
           </td>
-        </tr>
-        <tr>
-          <td align="center" height="36">✨ 역할</td>
         </tr>
       </table>
     </td>
@@ -69,9 +63,6 @@
             <a href="https://github.com/ParkMinseon22">@ParkMinseon22</a>
           </td>
         </tr>
-        <tr>
-          <td align="center" height="36">✨ 역할</td>
-        </tr>
       </table>
     </td>
     <td align="center" width="125" valign="top">
@@ -90,9 +81,6 @@
           <td align="center" height="44">
             <a href="https://github.com/parksoyun9084-cloud">@parksoyun</a>
           </td>
-        </tr>
-        <tr>
-          <td align="center" height="36">✨ 역할</td>
         </tr>
       </table>
     </td>
@@ -113,9 +101,6 @@
             <a href="https://github.com/jjhhyy0926">@jjhhyy0926</a>
           </td>
         </tr>
-        <tr>
-          <td align="center" height="36">✨ 역할</td>
-        </tr>
       </table>
     </td>
     <td align="center" width="125" valign="top">
@@ -134,9 +119,6 @@
           <td align="center" height="44">
             <a href="https://github.com/sooa02">@sooa02</a>
           </td>
-        </tr>
-        <tr>
-          <td align="center" height="36">✨ 역할</td>
         </tr>
       </table>
     </td>
