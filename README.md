@@ -31,7 +31,7 @@
       <table align="center" width="105">
         <tr>
           <td align="center" height="120">
-            <img src="https://i.namu.wiki/i/Da7oRPocBIZAlJ65Cqy7jHJFsZL52k0zA85DRo7e0hRQHpnlcEuJ5Nz5Kc0v1WZvCgAgm2TG2nX9u6I2idsy82mNTK8-XCwHMasyNlmbe8Pfn2AA6HKePw1PvDqmD37HaOOk-LLcrMG0oTORJ8Ac9g.webp"
+            <img src="https://i.namu.wiki/i/1tX0qTaEG_tGOksS0Pcjqx-xSyVJrizKgQG0qKQ-kOChOdx7xI2wh_64j8PdXXoL86pm3iY5DOjBfLJLhirzbKgXcmnBbiGa4G2nacWl7AtgI7cUWYo-YU3lnlGlXIk69YqSFPBqYCzs2QV1Ac-z0w.webp"
                  width="70" height="95"
                  style="object-fit:contain;">
           </td>
