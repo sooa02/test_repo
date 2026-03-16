@@ -169,7 +169,7 @@
   <tr>
     <td style="border:1px solid #d0d7de; padding:12px;"><b>최수아</b></td>
     <td style="border:1px solid #d0d7de; padding:12px; text-align:left;">
-      데이터 전처리 총괄 및 결과서 작성, EDA 수행, 가설 설정 및 검증, ERD 설계, Notion·회의록 작성
+      데이터 전처리 총괄 및 결과서 작성, EDA 수행, 가설 설정 및 검증, ERD 설계, Notion 및 회의록 작성
     </td>
   </tr>
 
