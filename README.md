@@ -416,22 +416,6 @@ JANI/
 - boxplot, histogram을 통한 분포 확인
 - 전처리 후 논리 정합성 검사 수행
 
-### IQR 점검 대상 변수
-
-- `age`
-- `tenure_days`
-- `weekly_hours`
-- `average_session_length`
-- `song_skip_rate`
-- `weekly_songs_played`
-- `weekly_unique_songs`
-- `num_favorite_artists`
-- `num_platform_friends`
-- `num_playlists_created`
-- `num_shared_playlists`
-- `notifications_clicked`
-- `State_AvgIncome`
-
 ### 이상치 탐색 결과
 
 IQR 기준 탐색에서는 별도의 극단치가 확인되지 않았다. 이는 데이터가 일정 범위 내에서 생성되었거나 전처리 과정에서 정합성이 확보된 결과로 해석된다.
@@ -481,7 +465,6 @@ IQR 기준 탐색에서는 별도의 극단치가 확인되지 않았다. 이는
 
 - `weekly_hours`가 가장 큰 절대 상관을 보이며, 사용 시간이 많을수록 이탈 가능성이 낮아지는 방향이다.
 - `num_subscription_pauses`, `song_skip_rate`는 이탈을 높이는 방향의 행동 변수다.
-- 다른 컬럼들은 상관계수가 거의 0에 가까워 단독 설명력이 낮다.
 
 ### 5.3 범주형 변수 그룹 비교
 
@@ -490,8 +473,6 @@ IQR 기준 탐색에서는 별도의 극단치가 확인되지 않았다. 이는
 - `subscription_type`: p < 0.001
 - `customer_service_inquiries`: p < 0.001
 - `payment_method`: p = 0.0430
-- `payment_plan`: p = 0.6372
-- `location`: p = 0.9777
 
 ### 범주별 churn rate
 
@@ -552,8 +533,6 @@ IQR 기준 탐색에서는 별도의 극단치가 확인되지 않았다. 이는
 - 스케일링
     - Logistic Regression, MLP 계열 모델에는 수치형 변수 표준화 권장
     - Tree 계열 모델(Random Forest, LightGBM 등)은 스케일링 필요성 낮음
-- 로그 변환
-    - 현재 데이터는 범위가 제한적이고 이상치가 거의 없어 필수 로그 변환 대상은 없음
 
 ---
 
