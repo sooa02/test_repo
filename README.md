@@ -134,7 +134,7 @@
   <tr>
     <td style="border:1px solid #d0d7de; padding:12px;"><b>김지윤</b></td>
     <td style="border:1px solid #d0d7de; padding:12px; text-align:left;">
-      Engagement 기반 RFM 테이블 설계, 데이터 전처리 및 모델링 모듈화, K-means 클러스터링 및 사용자 유형 분석
+      Engagement 기반 RFM 테이블 설계, 데이터 전처리 및 모델링 모듈화, K-means클러스터링 및 사용자 유형 분석
     </td>
   </tr>
 
