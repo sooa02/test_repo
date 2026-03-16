@@ -188,6 +188,7 @@
 ---
 
 # 인공지능 데이터 전처리 결과서
+상세 내용: https://ohgiraffers.notion.site/322649136c1180adb1b5fb2eca913618?source=copy_link
 
 ## 1. 프로젝트 개요
 
@@ -568,6 +569,7 @@ IQR 기준 탐색에서는 별도의 극단치가 확인되지 않았다. 이는
 ---
 
 # 인공지능 학습 결과서
+상세 내용: https://ohgiraffers.notion.site/322649136c11804898dacdb45ca3f276?source=copy_link
 
 본 문서는 음악 스트리밍 서비스 사용자 데이터를 기반으로 구독 이탈 예측 모델을 학습하고 성능을 비교한 결과를 정리한 것이다.  
 여러 머신러닝 모델을 이용하여 baseline 성능을 비교하고, 이후 Boosting 기반 모델을 중심으로 하이퍼파라미터 튜닝을 수행하였다.  
